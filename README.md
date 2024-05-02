@@ -1,4 +1,4 @@
-🔍 Project Overview: Scam Detection on Social Media
+🔍 Project Overview: Scam Detection on Facebook Market Place
 
 Objective: Detect potential scams on social media platforms, particularly Facebook, by analyzing user profiles for suspicious characteristics.
 
@@ -30,3 +30,7 @@ Prevention of Fraud: Helps prevent financial and reputational damage caused by f
 
 Report Suspicious Activity: Users are encouraged to report any suspicious profiles encountered on social media platforms.
 Stay Informed: Stay updated on scam detection techniques and best practices to protect yourself and others.
+
+![footer-bg](https://github.com/r0han01/Decision-Making-Models/assets/168735672/01a45703-f706-4c79-b8b3-b9bdb34fc8fd)
+
+

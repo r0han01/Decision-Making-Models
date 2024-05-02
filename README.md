@@ -21,3 +21,5 @@ Submit pull requests
 Share feedback and suggestions
 Spread the word to fellow decision-makers
 Let's build a robust repository together and empower better decisions, one model at a time! 💪
+
+![footer-bg](https://github.com/r0han01/Decision-Making-Models/assets/168735672/dcc0333f-8663-40fc-9ac2-d027936da53c)

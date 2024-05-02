@@ -1,25 +1,32 @@
-🔍 Welcome to the Decision-Making Model Repository! 📊
+🔍 Project Overview: Scam Detection on Social Media
 
-This repository is your go-to hub for a comprehensive collection of decision-making models, tools, and resources 🛠️ to navigate complex decision landscapes with confidence and clarity.
+Objective: Detect potential scams on social media platforms, particularly Facebook, by analyzing user profiles for suspicious characteristics.
 
-🎯 Objective:
-Empowering individuals and organizations with accessible decision-making models and tools across various domains 🌐
+🔍 Key Indicators:
 
-📋 Contents:
+Joined Facebook Recently: Profiles that have recently joined Facebook are flagged.
+Low Post Counts: Accounts with minimal activity in terms of posts are scrutinized.
+Low Marketplace Post Counts: Users with limited marketplace activity are monitored.
+Blurry Profile Images: Utilizing image processing techniques to identify blurry profile images, which may indicate fake or fraudulent accounts.
+🛠️ Implementation:
 
-Decision-Making Models: Explore diverse frameworks including rational, behavioral, game theory, and more 🧠
-Tools and Templates: Access practical resources like decision trees, matrices, and scenario planning tools 📈
-Case Studies: Learn from real-world examples in business, finance, healthcare, and public policy 📚
-Resources and References: Dive deeper into the theory and practice of decision-making 📖
-🤝 Contributing:
-Join the global community of decision-makers, researchers, and enthusiasts to enrich this repository 🌍
+Image Processing: Analyze profile images to determine their clarity using image processing algorithms.
+Data Analysis: Evaluate user profiles based on the aforementioned key indicators.
+Scam Detection: Classify profiles as "Likely scam" or "Unlikely to be scam" based on the analysis results.
+📈 Impact:
 
-💡 Get Involved:
+Improved Safety: Identifying potential scams enhances user safety and security on social media platforms.
+Fraud Prevention: Prompt action, such as reporting or blocking suspicious accounts, helps prevent fraud and abuse.
+Trustworthiness: Enhances trust in the platform by mitigating the presence of fraudulent profiles.
+👨‍💻 Audience:
 
-Fork this repository
-Submit pull requests
-Share feedback and suggestions
-Spread the word to fellow decision-makers
-Let's build a robust repository together and empower better decisions, one model at a time! 💪
+Users: Empowers users to identify and report suspicious profiles for a safer online experience.
+Platform Administrators: Provides tools to monitor and mitigate potential scams, enhancing platform integrity.
+🚀 Outcome:
 
-![footer-bg](https://github.com/r0han01/Decision-Making-Models/assets/168735672/dcc0333f-8663-40fc-9ac2-d027936da53c)
+Safer Environment: Creates a safer and more trustworthy environment for users to engage and interact on social media platforms.
+Prevention of Fraud: Helps prevent financial and reputational damage caused by fraudulent activities.
+🛡️ Take Action:
+
+Report Suspicious Activity: Users are encouraged to report any suspicious profiles encountered on social media platforms.
+Stay Informed: Stay updated on scam detection techniques and best practices to protect yourself and others.
